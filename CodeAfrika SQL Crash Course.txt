@@ -1,0 +1,32 @@
+//CodeAfrika SQL Crash Course
+MYSQL WorkBench
+1. Creating DB
+    - create database dbName;
+2. Seee DBS
+    - show databases;
+3. Use DB- (work with DB)
+    - use dbName;
+4. Create table with colums
+    - create table tableName( 
+      column1 datatype,
+      column2 datatype,
+      .
+      .
+      .
+      );
+   
+    Datatypes include: - VARCHAR
+                       - INTEGER etc.
+
+5. CR UD operation
+     -C - Create keyword - (Insert)
+     -R - Read - keyword (Select)
+
+--From Python-- (VSCode)
+
+pip install mysql-connector-python
+
+ 
+
+
+
